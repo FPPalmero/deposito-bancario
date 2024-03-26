@@ -55,3 +55,8 @@ button:hover {
     padding: 15px;
 }
 
+input .error {
+    color: red;
+    border-color: red;
+    outline-color: red;
+}
